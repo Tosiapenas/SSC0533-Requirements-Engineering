@@ -18,6 +18,6 @@ Access the file 'System.pdf
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The file 'DCU-Sistema-No-Realtor' is a UML diagram that exemplifies all the system and how he works at all
+The file 'UML.pdf' is a UML diagram that exemplifies all the system and how he works at all
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
